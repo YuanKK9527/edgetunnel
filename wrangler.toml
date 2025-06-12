@@ -1,3 +1,7 @@
 name = "hwless"
 compatibility_date = "2025-06-11"
 main = "_worker.js"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "a0b527cb838740629f13b700e5aa13d7"
